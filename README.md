@@ -1,6 +1,4 @@
-
-
-# Gaming_Coding
+## Gaming_Coding
 Hello world.
 You can down load two files.
 One is google music manager.
