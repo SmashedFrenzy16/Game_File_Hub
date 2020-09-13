@@ -10,7 +10,7 @@ currently being supported with security updates.
 | 3.1.x   | :x: Not yet released |
 | 2.0.x   | :x:  Not yet released              |
 | 1.0.x   | :white_check_mark: |
-| < 0.0   | :x:                |
+| < 0.0   | :x:   Does not exist             |
 
 ## Reporting a Vulnerability
 
