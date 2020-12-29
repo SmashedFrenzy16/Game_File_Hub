@@ -7,7 +7,7 @@ Currently, we have only just joined Github, so the only Game_File_Hub version th
 | Version | Supported          |
 | ------- | ------------------ |
 | 3.1.x   | :x: Not yet released |
-| 2.0.x   | :white_check_mark:  Not yet released              |
+| 2.0.x   | :white_check_mark:  Current Version              |
 | 1.0.x   | :x: Out of Date. Please update. |
 | < 0.0   | :x:   Does not exist             |
 
