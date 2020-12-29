@@ -2,7 +2,8 @@
 
 ## Supported Versions
 
-Currently, we have only just joined Github, so the only Game_File_Hub version that has been released, is Version 1.0
+Currently, we have only just joined Github, so the only Game_File_Hub version that has been released, is Version 1.0.
+29/12/2020: Our current version is 2.0 for this file.
 
 | Version | Supported          |
 | ------- | ------------------ |
