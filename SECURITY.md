@@ -4,11 +4,12 @@
 
 Currently, we have only just joined Github, so the only Game_File_Hub version that has been released, is Version 1.0.
 29/12/2020: Our current version is 2.0 for this file.
+05/08/2021: Our current version is 3.0 for this file.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 3.1.x   | :x: Not yet released |
-| 2.0.x   | :white_check_mark:  Current Version              |
+| 3.0.x   | :white_check_mark:  Current Version |
+| 2.0.x   | :x: Out of Date. Please update.              |
 | 1.0.x   | :x: Out of Date. Please update. |
 | < 0.0   | :x:   Does not exist             |
 
