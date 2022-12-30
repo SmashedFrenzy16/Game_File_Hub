@@ -16,3 +16,6 @@ Thank you.
 NOTICE:
 Google Music Manager download from here is no longer available from Google, as it is going away, along with Google Play Music. Thank you.
 
+UPDATE:
+I will start work on the Hub, a program that contains my greatest works, all acessible with the click of a few buttons.
+
