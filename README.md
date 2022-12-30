@@ -8,7 +8,7 @@ Hello world.
 You can download two files.
 One is Google Music Manager.
 Two is a BerryTech release I made.
-Thank you
+Thank you.
 
 ### More programs
 - A graphical Tkinter sample form
