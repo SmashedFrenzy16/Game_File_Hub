@@ -7,7 +7,7 @@ Hello world
 Hello world.
 You can download two files.
 One is Google Music Manager.
-Two is a BerryTech release I made.
+Two is a sample form that I made.
 Thank you.
 
 ### More programs
